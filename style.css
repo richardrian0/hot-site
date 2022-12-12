@@ -1,0 +1,27 @@
+body{
+background-color:#f3d8a7;
+margin-left: 2px;
+margin-right: 2px;
+
+}
+
+article{
+text-align: center;
+
+}
+
+h1{
+    border-bottom: solid;
+}
+
+h2{
+    border-bottom: solid;
+}
+
+footer{
+    bottom: 0vh;
+    margin-top:100px ;
+    background-color: #ff0800;
+    
+}
+
